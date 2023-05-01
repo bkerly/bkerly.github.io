@@ -1,4 +1,2 @@
 # bkerly.github.io
-CV and Homepage
-
-Created with http://nickstrayer.me/datadrivencv/
+Homepage, contianing information about Brian Erly and a code snippit and lots of links.
